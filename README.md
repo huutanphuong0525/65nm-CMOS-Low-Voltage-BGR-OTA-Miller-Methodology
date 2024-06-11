@@ -1,13 +1,6 @@
 README
 # 65nm CMOS Low-Voltage Bandgap Reference (BGR) using OTA Miller Methodology
 
-your-repository-name/
-├── docs/               # Documentation files
-├── schematics/         # Circuit schematics
-├── simulations/        # Simulation files and results
-├── src/                # Source files
-└── README.md           # This README file
-
 ## Table of Contents
 - [Introduction](#introduction)
 - [Project Description](#project-description)
